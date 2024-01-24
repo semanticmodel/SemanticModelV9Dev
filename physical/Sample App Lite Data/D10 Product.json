@@ -1,7 +1,7 @@
 {
   "physicalTable": {
     "name": "D10 Product",
-    "description": "12 Alias to the Products Dimension Physical table. Aliasing allows multiple representation of the same physical table source in the RPD physical model. It also helps maintenance and lineage.",
+    "description": "128 Alias to the Products Dimension Physical table. Aliasing allows multiple representation of the same physical table source in the RPD physical model. It also helps maintenance and lineage.",
     "sourceTable": "physicalTable:Sample App Lite Data.SAMP_PRODUCTS_D",
     "caching": {
       "enable": true
